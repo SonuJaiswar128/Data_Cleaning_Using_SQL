@@ -1,1 +1,7 @@
-# Data_Cleaning_Using_SQL
+About Project:
+
+We have use Nashville Housing dataset to perform data cleaning.
+
+Tools and Dataset-
+Nashville Excel file
+MicroSoft SQL Server
